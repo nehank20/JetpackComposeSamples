@@ -8,13 +8,13 @@
       <entry key="ButtonSamples_Preview">
         <State />
       </entry>
-      <entry key="ColumnLayoutSamples_Preview">
-        <State />
-      </entry>
       <entry key="ImageSamples_Preview">
         <State />
       </entry>
-      <entry key="RowSamples_Preview">
+      <entry key="SpannableTextSamples_Preview">
+        <State />
+      </entry>
+      <entry key="TextFieldSamples_Preview">
         <State />
       </entry>
       <entry key="app">
