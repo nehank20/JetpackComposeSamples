@@ -2,13 +2,13 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="BoxlayoutSamples_Preview">
-        <State />
-      </entry>
       <entry key="ButtonSamples_Preview">
         <State />
       </entry>
       <entry key="ImageSamples_Preview">
+        <State />
+      </entry>
+      <entry key="LazyColumnSamples_Preview">
         <State />
       </entry>
       <entry key="SpannableTextSamples_Preview">
