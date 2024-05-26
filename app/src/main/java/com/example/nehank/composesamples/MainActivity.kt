@@ -13,6 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.nehank.composesamples.navigations.MainNavigation
 import com.example.nehank.composesamples.navigations.NestedNavigation_NavigationFile
 import com.example.nehank.composesamples.others.CheckBoxSamples
+import com.example.nehank.composesamples.others.WeightModifierSampleOne
 import com.example.nehank.composesamples.states.Todo_Screen
 import com.example.nehank.composesamples.ui.theme.ComposeSamplesTheme
 
@@ -26,7 +27,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    CheckBoxSamples()
+                    WeightModifierSampleOne()
                 }
             }
         }
